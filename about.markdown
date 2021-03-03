@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Christian Påbøl Jacobsen
 permalink: /about/
 ---
 
-# Christian Påbøl Jacobsen
 > A mystery wrapped in an enigma, with a side of fries
 
 This is my first entry into the world of blogging and self-marketing. For a while i've wanted to

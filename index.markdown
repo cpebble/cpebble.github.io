@@ -6,4 +6,9 @@ layout: home
 title: Index
 ---
 
-See [About me][/about]
+See [About me](/about)
+
+I have posted a small amount of posts
+{% for post in site.posts %}
+## [{{post.title}}]({{post.url}})
+{% endfor %}

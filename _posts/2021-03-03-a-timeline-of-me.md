@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "A timeline of Me"
+title: "A Timeline of Me"
 categories: personal 
 ---
 
 # Who am i?
+I've made this, mostly to get used to blogging, and to give potential readers an insight into who
+is writing these posts
 
 **1998-2014**
 : A less interesting part of my life, where i mostly messed around with basic computer stuff.
